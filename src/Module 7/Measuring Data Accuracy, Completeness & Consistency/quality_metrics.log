@@ -212,3 +212,284 @@
 2025-05-17 07:06:28,660 - INFO - Schema Mismatches: {}
 2025-05-17 07:06:28,660 - INFO - Job completed.
 
+2025-05-17 07:07:06,365 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:06,371 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:06,371 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:06,371 - INFO - Job completed.
+
+2025-05-17 07:07:06,371 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:06,375 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:06,375 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:06,375 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:06,375 - INFO - Job completed.
+
+2025-05-17 07:07:06,375 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:06,379 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:06,379 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:06,379 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:06,379 - INFO - Job completed.
+
+2025-05-17 07:07:16,389 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:16,394 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:16,394 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:16,394 - INFO - Job completed.
+
+2025-05-17 07:07:16,394 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:16,398 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:16,398 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:16,398 - INFO - Job completed.
+
+2025-05-17 07:07:16,398 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:16,401 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:16,401 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:16,402 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:16,402 - INFO - Job completed.
+
+2025-05-17 07:07:16,402 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:16,405 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:16,405 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:16,405 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:16,405 - INFO - Job completed.
+
+2025-05-17 07:07:26,416 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:26,421 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:26,421 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:26,421 - INFO - Job completed.
+
+2025-05-17 07:07:26,421 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:26,424 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:26,424 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:26,424 - INFO - Job completed.
+
+2025-05-17 07:07:26,424 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:26,428 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:26,428 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:26,428 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:26,428 - INFO - Job completed.
+
+2025-05-17 07:07:26,428 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:26,431 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:26,431 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:26,431 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:26,432 - INFO - Job completed.
+
+2025-05-17 07:07:36,442 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:36,447 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:36,447 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:36,447 - INFO - Job completed.
+
+2025-05-17 07:07:36,447 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:36,451 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:36,451 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:36,451 - INFO - Job completed.
+
+2025-05-17 07:07:36,451 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:36,454 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:36,454 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:36,454 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:36,454 - INFO - Job completed.
+
+2025-05-17 07:07:36,454 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:36,458 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:36,458 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:36,458 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:36,458 - INFO - Job completed.
+
+2025-05-17 07:07:46,468 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:46,473 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:46,473 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:46,473 - INFO - Job completed.
+
+2025-05-17 07:07:46,473 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:46,476 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:46,476 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:46,477 - INFO - Job completed.
+
+2025-05-17 07:07:46,477 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:46,480 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:46,480 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:46,480 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:46,480 - INFO - Job completed.
+
+2025-05-17 07:07:46,480 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:46,484 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:46,484 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:46,484 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:46,484 - INFO - Job completed.
+
+2025-05-17 07:07:56,495 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:56,500 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:56,500 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:56,500 - INFO - Job completed.
+
+2025-05-17 07:07:56,500 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:56,503 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:56,504 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:56,504 - INFO - Job completed.
+
+2025-05-17 07:07:56,504 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:56,507 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:56,507 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:56,507 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:56,507 - INFO - Job completed.
+
+2025-05-17 07:07:56,507 - INFO - Running data quality monitoring job.
+2025-05-17 07:07:56,511 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:07:56,511 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:07:56,511 - INFO - Schema Mismatches: {}
+2025-05-17 07:07:56,511 - INFO - Job completed.
+
+2025-05-17 07:08:06,521 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:06,525 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:06,525 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:06,525 - INFO - Job completed.
+
+2025-05-17 07:08:06,525 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:06,529 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:06,529 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:06,529 - INFO - Job completed.
+
+2025-05-17 07:08:06,529 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:06,533 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:06,533 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:06,533 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:06,533 - INFO - Job completed.
+
+2025-05-17 07:08:06,533 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:06,536 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:06,537 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:06,537 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:06,537 - INFO - Job completed.
+
+2025-05-17 07:08:16,547 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:16,552 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:16,552 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:16,552 - INFO - Job completed.
+
+2025-05-17 07:08:16,552 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:16,556 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:16,556 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:16,556 - INFO - Job completed.
+
+2025-05-17 07:08:16,556 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:16,559 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:16,559 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:16,560 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:16,560 - INFO - Job completed.
+
+2025-05-17 07:08:16,560 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:16,563 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:16,563 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:16,563 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:16,563 - INFO - Job completed.
+
+2025-05-17 07:08:26,574 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:26,579 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:26,579 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:26,579 - INFO - Job completed.
+
+2025-05-17 07:08:26,579 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:26,582 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:26,582 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:26,583 - INFO - Job completed.
+
+2025-05-17 07:08:26,583 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:26,586 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:26,586 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:26,586 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:26,586 - INFO - Job completed.
+
+2025-05-17 07:08:26,586 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:26,590 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:26,590 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:26,590 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:26,590 - INFO - Job completed.
+
+2025-05-17 07:08:36,601 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:36,605 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:36,605 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:36,606 - INFO - Job completed.
+
+2025-05-17 07:08:36,606 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:36,609 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:36,609 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:36,609 - INFO - Job completed.
+
+2025-05-17 07:08:36,609 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:36,613 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:36,613 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:36,613 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:36,613 - INFO - Job completed.
+
+2025-05-17 07:08:36,613 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:36,617 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:36,617 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:36,617 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:36,617 - INFO - Job completed.
+
+2025-05-17 07:08:46,631 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:46,635 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:46,635 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:46,635 - INFO - Job completed.
+
+2025-05-17 07:08:46,636 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:46,639 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:46,639 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:46,639 - INFO - Job completed.
+
+2025-05-17 07:08:46,639 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:46,643 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:46,643 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:46,643 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:46,643 - INFO - Job completed.
+
+2025-05-17 07:08:46,643 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:46,647 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:46,647 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:46,647 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:46,647 - INFO - Job completed.
+
+2025-05-17 07:08:56,657 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:56,661 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:56,661 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:56,661 - INFO - Job completed.
+
+2025-05-17 07:08:56,662 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:56,665 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:56,665 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:56,665 - INFO - Job completed.
+
+2025-05-17 07:08:56,665 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:56,669 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:56,669 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:56,669 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:56,669 - INFO - Job completed.
+
+2025-05-17 07:08:56,669 - INFO - Running data quality monitoring job.
+2025-05-17 07:08:56,672 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:08:56,673 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:08:56,673 - INFO - Schema Mismatches: {}
+2025-05-17 07:08:56,673 - INFO - Job completed.
+
+2025-05-17 07:09:06,684 - INFO - Running data quality monitoring job.
+2025-05-17 07:09:06,688 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:09:06,688 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:09:06,688 - INFO - Job completed.
+
+2025-05-17 07:09:06,688 - INFO - Running data quality monitoring job.
+2025-05-17 07:09:06,692 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:09:06,692 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:09:06,692 - INFO - Job completed.
+
+2025-05-17 07:09:06,692 - INFO - Running data quality monitoring job.
+2025-05-17 07:09:06,695 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:09:06,696 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:09:06,696 - INFO - Schema Mismatches: {}
+2025-05-17 07:09:06,696 - INFO - Job completed.
+
+2025-05-17 07:09:06,696 - INFO - Running data quality monitoring job.
+2025-05-17 07:09:06,699 - INFO - Missing Rate per column: {'age': 0.013574660633484163, 'sex': 0.0, 'bmi': 0.0022624434389140274, 'bp': 0.0, 's1': 0.0, 's2': 0.0, 's3': 0.0, 's4': 0.0, 's5': 0.0, 's6': 0.0, 'fake_column': 0.0}
+2025-05-17 07:09:06,699 - INFO - Row Missing Fraction: 0.0158
+2025-05-17 07:09:06,699 - INFO - Schema Mismatches: {}
+2025-05-17 07:09:06,699 - INFO - Job completed.
+
